@@ -9,7 +9,7 @@
 
 ---
 
-![bdsoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdsoha&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
+![bdsoha's GitHub stats](https://github-readme-stats-jet-kappa-12.vercel.app/api?username=bdsoha&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bdsoha&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
